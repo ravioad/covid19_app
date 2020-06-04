@@ -1,4 +1,4 @@
-# covid_19 App
+# Covid_19 App
 
 A new Flutter Tutorial.
 
